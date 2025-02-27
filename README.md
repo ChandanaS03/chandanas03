@@ -1,12 +1,6 @@
 ## All about me!
 Hi there! I am Chandana👋
 
-
-
-**ChandanaS03/chandanas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Me
 - 🌱 I’m currently a learning machine
 - 👯 I’m looking to collaborate with life 
