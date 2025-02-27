@@ -6,7 +6,7 @@ Hi there! I am Chandana👋
 - 👯 I’m looking to collaborate with life 
 - 🤔 I’m looking for help with life
 - 💬 Ask me about Gen AI
-- 📫 How to reach me: chandanashastri12@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/chandanashastri@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i really am funny 
 
