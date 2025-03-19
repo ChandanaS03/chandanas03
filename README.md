@@ -44,17 +44,6 @@
 
 
 
-## All about me!
-Hi there! I am Chandana👋
-
-- 🔭 I’m currently working on Me
-- 🌱 I’m currently a learning machine
-- 👯 I’m looking to collaborate with life 
-- 🤔 I’m looking for help with life
-- 💬 Ask me about Gen AI
-- 📫 How to reach me: https://www.linkedin.com/in/chandanashastri
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i really am funny 
 
 
 
