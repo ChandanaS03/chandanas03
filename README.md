@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/mkLBg7mf/banner1.jpg)
+![Banner]()
 
 <h1 align="center">Hey there, I'm Chandana Shastri ✨</h1>
 <h3 align="center">Passionate about ML, Problem solving & Organic stuff 🚀</h3>
