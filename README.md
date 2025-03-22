@@ -1,14 +1,20 @@
-![Banner]()
+![Banner](https://www.canva.com/design/DAGid9t468U/OB_qKXs57SqGJFA5yBGN6Q/view?utm_content=DAGid9t468U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h882e01ea25)
 
 <h1 align="center">Hey there, I'm Chandana Shastri ✨</h1>
-<h3 align="center">Passionate about ML, Problem solving & Organic stuff 🚀</h3>
-<h3 align="center">Learning Machine, Building, and Sharing Knowledge ❤️</h3>
+<h3 align="center">Blending AI, mindfulness, and creativity into impactful solutions. 🚀</h3>
+<h3 align="center">I am passionate about AI/ML, tech, yoga, and music. I enjoy building
+            intelligent solutions that merge creativity with innovation. An AI
+            enthusiast and engineering student, I love exploring the frontiers
+            of technology. With a keen interest in Machine Learning, Generative
+            AI, Python, web development, and problem-solving, I'm building a
+            robust skill set. Beyond coding, you'll find me expressing myself
+            through music as a vocalist and practicing yoga for mindfulness.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanashastri&label=Profile%20Visitors&color=0e75b6&style=flat" alt="chandanashastri" /> </p>
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👩‍💻 I love collaborating on ML & Data Science<br><br>🌱 Currently diving deeper into Machine Learning & Deep Learning <br><br>💬 Ask me about Python, ML/AI & Art<br><br>📫 Reach me at: chandanashastri12@gmail.com<br><br>⚡ Fun fact: kadha + Debugging = Magic! ☕✨<br>
+<br>👩‍💻 I love collaborating with LIFE<br><br>🌱 Currently diving deeper into Machine Learning & Deep Learning <br><br>💬 Ask me about Python, ML/AI & Art<br><br>📫 Reach me at: chandanashastri12@gmail.com<br><br>⚡ Fun fact: I can make you laugh, trust me!<br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandanashastri)  
@@ -25,6 +31,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
 
 
+
+
 <details align="center">
   <summary font-weight="bold" ><h3> 📊 GitHub Stats 📊 </h3></summary>
   <br>
@@ -35,23 +43,6 @@
  
  <br>
 </details>
-
-[![An image of @chandanashastri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandanashastri)](https://holopin.io/@chandanashastri)
-
-## 💰 Support My Journey
-
-
-
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 
 <details>
 <summary>My top 3</summary>
