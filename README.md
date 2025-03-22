@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAGid9t468U/OB_qKXs57SqGJFA5yBGN6Q/view?utm_content=DAGid9t468U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h882e01ea25" alt="Banner" width="100%">
-</p>
-
-![Banner](https://www.canva.com/design/DAGid9t468U/OB_qKXs57SqGJFA5yBGN6Q/view?utm_content=DAGid9t468U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h882e01ea25)
+![Banner](https://github.com/ChandanaS03/chandanas03/blob/9f89b5a563b18ccf3533b75f761658e42d8047a8/Chandana%20Shastri.png)
 
 <h1 align="center">✨ Hey there, I'm Chandana Shastri ✨</h1>
-<h3 align="center">Blending AI, mindfulness, and creativity into impactful solutions 🚀</h3>
+
 
 <p align="center">
   I’m passionate about <strong>AI/ML, tech, yoga, and music</strong>. <br>
@@ -21,10 +17,12 @@
 
 <p align="center"><em>Thanks for stopping by! Let's connect and build something cool together. 💡</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanashastri&label=Profile%20Visitors&color=0e75b6&style=flat" alt="chandanashastri" /> </p>
 
 # 💫 About Me:
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+  <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVhNTZjMmQ0MGczbG1kODZlaDlsYzd6OHhkdGlmNzI2Yml1NnE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1Z9gCY6vtaTOzjAhk/giphy.gif" width="400" />
+
+
 
 - 👩‍💻 I love collaborating with LIFE  
 - 🌱 Currently diving deeper into **Machine Learning & Deep Learning**  
@@ -35,8 +33,14 @@
 ## 🌐 Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/chandanashastri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/shastrichandana" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/ChandanaS03" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/ShastriChandana" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0000-6080-7429" target="_blank"><img src="https://img.shields.io/badge/-ORCID-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+<a href="https://g.dev/chandanashastri" target="_blank"><img src="https://img.shields.io/badge/-GoogleDev-%234285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section" target="_blank"><img src="https://img.shields.io/badge/-Microsoft-%237A7A7A?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="mailto:chandanashastri12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 
 
 
@@ -94,16 +98,7 @@
   </p>
 </details>
 
-<details align="center">
-  <summary font-weight="bold" ><h3> 📊 GitHub Stats 📊 </h3></summary>
-  <br>
-  
-![](https://github-readme-stats.vercel.app/api?username=chandanas03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chandanashastri&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanas03&theme=radical&hide_border=false&layout=compact)
- 
- <br>
-</details>
+
 
 <details>
 <summary>My top 3</summary>
@@ -120,12 +115,12 @@
 
 ---
 <p align="center">
-  <b>✨ Let's build and innovate together! ✨</b><br>
+  <b>✨ Women in Tech ! ✨</b><br>
   — Chandana 🚀
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Code+with+passion+%7C+Live+with+purpose+%7C+Learn+everyday." alt="Typing SVG" />
-</p>
+
+
+
 
 
 
