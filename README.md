@@ -1,4 +1,4 @@
-![Banner](https://github.com/ChandanaS03/chandanas03/blob/4b92d6363ce2ff04f697ddc322e756cdffa2238c/github%20banner.png)
+![Banner](https://github.com/ChandanaS03/chandanas03/blob/4b92d6363ce2ff04f697ddc322e756cdffa2238c/github.png)
 
 <h1 align="center">✨ Hey there, I'm Chandana Shastri ✨</h1>
 
