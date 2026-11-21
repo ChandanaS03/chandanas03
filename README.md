@@ -24,9 +24,8 @@
 
 
 
-- 👩‍💻 I love collaborating with LIFE  
-- 🌱 Currently diving deeper into **Machine Learning & Deep Learning**  
-- 💬 Ask me about **Python, ML/AI & Art**  
+- 👩‍💻 I'm a researcher, looking forward for collabs.
+- 🌱 Currently diving deeper into **LLMs**  
 - 📫 Reach me at: [chandanashastri12@gmail.com](mailto:chandanashastri12@gmail.com)  
 - 🎤 Fun fact: I can make you laugh — trust me! 😄  
 
